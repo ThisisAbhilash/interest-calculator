@@ -1,0 +1,33 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.form-body {
+  padding: 0 20px 20px 20px;
+  height: 700px;
+  width: 800px;
+  background-color: #ffb3b3;
+}
+.amountSlider {
+  padding: 20px;
+}
+.amountPicker {
+  margin-top: 15px;
+}
+.label {
+  font-size: 20px;
+  margin-right: 15px;
+  text-decoration: underline;
+}
+.serachRows {
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  background-color: aqua;
+}
